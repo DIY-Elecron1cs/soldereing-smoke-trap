@@ -10,6 +10,6 @@
 - гайки и винты M4
 - угольный фильтр
 # фото, чертежи
-[сборка](https://github.com/DIY-Elecron1cs/soldereing-smoke-trap/blob/main/images/image.png)
+![сборка](https://github.com/DIY-Elecron1cs/soldereing-smoke-trap/blob/main/images/image.png?raw=true)
 
 По всем вопросам писать [в личку](https://t.me/Oleg_Krd_RU)
