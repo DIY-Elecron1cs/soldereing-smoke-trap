@@ -17,11 +17,12 @@
 - деталь [переходника на провод](https://github.com/DIY-Elecron1cs/soldereing-smoke-trap/blob/main/for%20printing/step/на%20провод%202.stp) нужна в количестве 5 штук;
 - деталь для [крепления подсветки](https://github.com/DIY-Elecron1cs/soldereing-smoke-trap/blob/main/for%20printing/step/для%20подсветки.stp) в принципе не особо нужна)
 
-## фото, чертежи
-![сборка](https://github.com/DIY-Elecron1cs/soldereing-smoke-trap/blob/main/images/image.png?raw=true)
-
 ## про трубки
 ![чертёж 1 в sPlan70](https://github.com/DIY-Elecron1cs/soldereing-smoke-trap/blob/main/images/image%20(2).png?raw=true)
 длина трубок рассчитана на стандартную ширину стола 600 мм. Трубку, которая крепится к столу, лучше удлинить (см на 10).
+
+## фото, чертежи
+![сборка](https://github.com/DIY-Elecron1cs/soldereing-smoke-trap/blob/main/images/image.png?raw=true)
+
 ## обратная связь
 По всем вопросам писать [в ТГ](https://t.me/Oleg_Krd_RU)
