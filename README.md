@@ -21,7 +21,7 @@
 ![чертёж 1 в sPlan70](https://github.com/DIY-Elecron1cs/soldereing-smoke-trap/blob/main/images/image%20(2).png?raw=true)
 длина трубок рассчитана на стандартную ширину стола 600 мм. Трубку, которая крепится к столу, лучше удлинить (см на 10).
 
-## фото, чертежи
+## фото
 ![сборка](https://github.com/DIY-Elecron1cs/soldereing-smoke-trap/blob/main/images/image.png?raw=true)
 
 ## обратная связь
