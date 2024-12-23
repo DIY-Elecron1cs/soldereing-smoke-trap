@@ -25,6 +25,6 @@
 
 ## фото
 ![сборка](https://github.com/DIY-Elecron1cs/soldereing-smoke-trap/blob/main/images/image.png?raw=true)
-
+![фото](https://github.com/DIY-Elecron1cs/soldereing-smoke-trap/blob/main/images/IMG_20241221_202052.jpg?raw=true)
 ## обратная связь
 По всем вопросам писать [в ТГ](https://t.me/Oleg_Krd_RU)
